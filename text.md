@@ -1,4 +1,10 @@
-[Programs](#programs) | [Resources](#Resources) | [Plugins](#plugins) | [Resources](#resources) | [Learning](#learning) |
+[Programs](#programs) | [Engines](#Engines) |[Resources](#Resources) | [Plugins](#plugins) | [Resources](#resources) | [Learning](#learning) | 
+
+[My Setup and Gear](https://kit.co/iRayn)
+
+[All my Links](https://biolinks.heropost.io/iRayn)
+
+![Image](https://www.youtube.com/channel/UCDeQdW6Lt6nhq3mLM4oLGWw)
 
 <a name="programs"></a>
 ## Programs
@@ -6,7 +12,8 @@
 - [Zbrush](https://pixologic.com/features/) 
 <br>    [sculpting | blendshapes | ID map generation]
 
-- [PureRef](https://www.pureref.com/) - free tool for reference 
+- [PureRef](https://www.pureref.com/)
+<br>    [reference collection] 
 
 - [Maya](https://www.autodesk.com/products/maya/overview?term=1-YEAR)/[Blender](https://www.blender.org/)
 <br>    [comp | animation | rigging | minor fixes | bake setup]
@@ -29,11 +36,14 @@
 - [Houdini](https://www.sidefx.com/)/[EmberGen](https://jangafx.com/)
 <br>    [VFX]
 
-Unreal [Unreal](https://www.unrealengine.com/en-US/)
+<a name="Engines"></a>
+## Engines
 
-Unity [Unity](https://unity.com/)
+- [Unreal](https://www.unrealengine.com/en-US/)
 
-CryEngine [CryEngine](https://www.cryengine.com/)
+- [Unity](https://unity.com/)
+
+- [CryEngine](https://www.cryengine.com/)
 
 <a name="Resources"></a>
 ## Resources
@@ -60,6 +70,10 @@ CryEngine [CryEngine](https://www.cryengine.com/)
 
 <a name="learning"></a>
 ## Learning
+
+- [Artstation Leanrning](https://www.artstation.com/learning)
+
+- [Nvidia Studio](https://www.youtube.com/channel/UCDeQdW6Lt6nhq3mLM4oLGWw)
 
 - [Stylized Station](https://www.youtube.com/c/StylizedStation/featured)
 
