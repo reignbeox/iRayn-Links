@@ -1,10 +1,10 @@
+![Alt Text](https://media.giphy.com/media/RLbdgn0S36my2VfInK/giphy.gif)
+
 [Programs](#programs) | [Engines](#Engines) |[Resources](#Resources) | [Plugins](#plugins) | [Resources](#resources) | [Learning](#learning) | 
 
-[My Setup and Gear](https://kit.co/iRayn)
+## [My Setup and Gear](https://kit.co/iRayn)
 
 [All my Links](https://biolinks.heropost.io/iRayn)
-
-![Alt Text](https://media.giphy.com/media/RLbdgn0S36my2VfInK/giphy.gif)
 
 <a name="programs"></a>
 ## Programs
@@ -49,7 +49,7 @@
 ## Resources
 
 - [My Anatomy Collection](https://www.artstation.com/zexy_wizard/collections/273131)
-<br>    [NOTE: Not all of these are supa accurate] 
+<br>    > not all of these are supa accurate
 
 - [JROTools](https://jrotools.com/projects)
 <br>    [Free&Paid]
@@ -71,7 +71,7 @@
 <a name="learning"></a>
 ## Learning
 
-- [Artstation Leanrning](https://www.artstation.com/learning)
+- [Artstation Learning](https://www.artstation.com/learning)
 
 - [Nvidia Studio](https://www.youtube.com/channel/UCDeQdW6Lt6nhq3mLM4oLGWw)
 
