@@ -1,4 +1,4 @@
-[Programs](#programs) | [ZBrush Resources](#ZBrushResources) | [Plugins](#plugins) | [Resources](#resources) | [Learning](#learning) |
+[Programs](#programs) | [Resources](#Resources) | [Plugins](#plugins) | [Resources](#resources) | [Learning](#learning) |
 
 <a name="programs"></a>
 ## Programs
