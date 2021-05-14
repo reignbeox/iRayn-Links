@@ -1,4 +1,4 @@
-[Programs](#programs) | [ZBrush Resources](#ZBrush Resources) | [Plugins](#plugins) | [Resources](#resources) | [Tutorials](#tutorials) |
+[Programs](#programs) | [ZBrush Resources](#ZBrushResources) | [Plugins](#plugins) | [Resources](#resources) | [Tutorials](#tutorials) |
 
 <a name="programs"></a>
 ## Programs
@@ -28,10 +28,12 @@ Houdini/EmberGen - [Houdini](https://www.sidefx.com/)/[EmberGen](https://jangafx
     [VFX]
 
 Unreal [Unreal](https://www.unrealengine.com/en-US/)
+
 Unity [Unity](https://unity.com/)
+
 CryEngine [CryEngine](https://www.cryengine.com/)
 
-<a name="ZBrush Resources"></a>
+<a name="ZBrushResources"></a>
 ## ZBrush Resources
 
 <a name="plugins"></a>
