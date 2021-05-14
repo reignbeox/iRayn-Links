@@ -1,30 +1,32 @@
-[Programs](#programs) | [ZBrush Resources](#ZBrushResources) | [Plugins](#plugins) | [Resources](#resources) | [Tutorials](#tutorials) |
+[Programs](#programs) | [ZBrush Resources](#ZBrushResources) | [Plugins](#plugins) | [Resources](#resources) | [Learning](#learning) |
 
 <a name="programs"></a>
 ## Programs
 
-- Zbrush - [Zbrush](https://pixologic.com/features/) 
+- [Zbrush](https://pixologic.com/features/) 
 <br>    [sculpting | blendshapes | ID map generation]
 
-- Maya/Blender - [Maya](https://www.autodesk.com/products/maya/overview?term=1-YEAR)/[Blender](https://www.blender.org/)
+- [PureRef](https://www.pureref.com/) - free tool for reference 
+
+- [Maya](https://www.autodesk.com/products/maya/overview?term=1-YEAR)/[Blender](https://www.blender.org/)
 <br>    [comp | animation | rigging | minor fixes | bake setup]
 
-- TopoGun - [Topogun3](http://www.topogun.com/) 
+- [Topogun3](http://www.topogun.com/) 
 <br>    [retopo]
 
-- RizomUV - [RizomUV](https://www.rizom-lab.com/rizomuv-vs/) 
+- [RizomUV](https://www.rizom-lab.com/rizomuv-vs/) 
 <br>    [UV editing]
 
-- Substance Painter - [Substance Painter](https://www.substance3d.com/products/substance-painter/)
+- [Substance Painter](https://www.substance3d.com/products/substance-painter/)
 <br>    [texturing | baking]
 
-- Marmoset Toolbag - [Marmoset Toolbag](https://marmoset.co/toolbag/) 
-<br>    [baking]
+- [Marmoset Toolbag](https://marmoset.co/toolbag/) 
+<br>    [baking | presentation]
 
-- Moments of Inspiration - [MoI3D](http://moi3d.com/)
+- [MoI3D](http://moi3d.com/)
 <br>    [CAD]
 
-Houdini/EmberGen - [Houdini](https://www.sidefx.com/)/[EmberGen](https://jangafx.com/)
+- [Houdini](https://www.sidefx.com/)/[EmberGen](https://jangafx.com/)
 <br>    [VFX]
 
 Unreal [Unreal](https://www.unrealengine.com/en-US/)
@@ -36,15 +38,34 @@ CryEngine [CryEngine](https://www.cryengine.com/)
 <a name="Resources"></a>
 ## Resources
 
+- [My Anatomy Collection](https://www.artstation.com/zexy_wizard/collections/273131)
+<br>    [NOTE: Not all of these are supa accurate] 
+
+- [JROTools](https://jrotools.com/projects)
+<br>    [Free&Paid]
+
+
+
 <a name="plugins"></a>
 ## Plugins
-Cosmos - [Cosmos](http://cosmos.toolsfrom.space/)
-    []
+
+- [Cosmos](http://cosmos.toolsfrom.space/)
+<br>    [Maya Search Bar]
+
+- [somuchmonsters](http://www.somuchmonsters.com/)
+<br>    [SoMuchZbrush | SoMuchMaterials]
 
 
-- JROTools [Gumroad](https://gumroad.com/a/8524915)
 
-<a name="tutorials"></a>
-## Tutorials
 
-- FlippedNormals [Link](https://flippednormals.com/ref/denis3d/) *(Affiliate Links)*
+<a name="learning"></a>
+## Learning
+
+- [Stylized Station](https://www.youtube.com/c/StylizedStation/featured)
+
+- [FlippedNormals](https://flippednormals.com/)
+
+- [Brackeys](https://www.youtube.com/c/Brackeys/featured)
+
+- [simonschreibt](https://simonschreibt.de/)
+<br>    [GameTech Blog]
