@@ -3,13 +3,29 @@
 <a name="rograms"></a>
 ## Programs
 
-- Maya - [Maya](https://www.autodesk.com/products/maya/overview?term=1-YEAR)/[Blender](https://www.blender.org/)
-    - comp/animation
+- Zbrush - [Zbrush](https://pixologic.com/features/) 
+    [sculpting | blendshapes | ID map generation]
 
-- TopoGun [Topogun3](http://www.topogun.com/) - retopo
+- Maya/Blender - [Maya](https://www.autodesk.com/products/maya/overview?term=1-YEAR)/[Blender](https://www.blender.org/)
+    [comp | animation | rigging | minor fixes | bake setup}
 
-- SimpleTabs - [BlenderMarket](https://blendermarket.com/products/simple-tabs)
-- PowerSave - [BlenderMarket](https://blendermarket.com/products/powersave)
+- TopoGun - [Topogun3](http://www.topogun.com/) 
+    [retopo]
+
+- RizomUV - [RizomUV](https://www.rizom-lab.com/rizomuv-vs/) 
+    [UV editing]
+
+- Substance Painter - [Substance Painter](https://www.substance3d.com/products/substance-painter/)
+    [texturing | baking]
+
+- Marmoset Toolbag - [Marmoset Toolbag](https://marmoset.co/toolbag/) 
+    [baking]
+
+- Moments of Inspiration - [MoI3D](http://moi3d.com/)
+    [CAD]
+
+
+Unity; Unreal; CryEngine
 
 
 
