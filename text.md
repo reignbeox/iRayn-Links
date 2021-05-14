@@ -2,9 +2,9 @@
 
 [Programs](#programs) | [Engines](#Engines) |[Resources](#Resources) | [Plugins](#plugins) | [Resources](#resources) | [Learning](#learning) | 
 
-## [My Setup and Gear](https://kit.co/iRayn)
+### [My Setup and Gear](https://kit.co/iRayn)
 
-[All my Links](https://biolinks.heropost.io/iRayn)
+#### [All my Links](https://biolinks.heropost.io/iRayn)
 
 <a name="programs"></a>
 ## Programs
@@ -49,7 +49,7 @@
 ## Resources
 
 - [My Anatomy Collection](https://www.artstation.com/zexy_wizard/collections/273131)
-<br>    > not all of these are supa accurate
+    > not all of these are supa accurate
 
 - [JROTools](https://jrotools.com/projects)
 <br>    [Free&Paid]
