@@ -4,28 +4,28 @@
 ## Programs
 
 - Zbrush - [Zbrush](https://pixologic.com/features/) 
-    [sculpting | blendshapes | ID map generation]
+<br>    [sculpting | blendshapes | ID map generation]
 
 - Maya/Blender - [Maya](https://www.autodesk.com/products/maya/overview?term=1-YEAR)/[Blender](https://www.blender.org/)
-    [comp | animation | rigging | minor fixes | bake setup}
+<br>    [comp | animation | rigging | minor fixes | bake setup]
 
 - TopoGun - [Topogun3](http://www.topogun.com/) 
-    [retopo]
+<br>    [retopo]
 
 - RizomUV - [RizomUV](https://www.rizom-lab.com/rizomuv-vs/) 
-    [UV editing]
+<br>    [UV editing]
 
 - Substance Painter - [Substance Painter](https://www.substance3d.com/products/substance-painter/)
-    [texturing | baking]
+<br>    [texturing | baking]
 
 - Marmoset Toolbag - [Marmoset Toolbag](https://marmoset.co/toolbag/) 
-    [baking]
+<br>    [baking]
 
 - Moments of Inspiration - [MoI3D](http://moi3d.com/)
-    [CAD]
+<br>    [CAD]
 
 Houdini/EmberGen - [Houdini](https://www.sidefx.com/)/[EmberGen](https://jangafx.com/)
-    [VFX]
+<br>    [VFX]
 
 Unreal [Unreal](https://www.unrealengine.com/en-US/)
 
@@ -33,14 +33,14 @@ Unity [Unity](https://unity.com/)
 
 CryEngine [CryEngine](https://www.cryengine.com/)
 
-<a name="ZBrushResources"></a>
-## ZBrush Resources
+<a name="Resources"></a>
+## Resources
 
 <a name="plugins"></a>
 ## Plugins
+Cosmos - [Cosmos](http://cosmos.toolsfrom.space/)
+    []
 
-<a name="resources"></a>
-## Resources
 
 - JROTools [Gumroad](https://gumroad.com/a/8524915)
 
