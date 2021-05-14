@@ -1,10 +1,10 @@
 ![Alt Text](https://media.giphy.com/media/RLbdgn0S36my2VfInK/giphy.gif)
 
-[Programs](#programs) | [Engines](#Engines) |[Resources](#Resources) | [Plugins](#plugins) | [Resources](#resources) | [Learning](#learning) | 
+[Programs](#programs) | [Engines](#engines) |[Resources](#resources) | [Learning](#learning) | [Artists](#artists)
 
-### [My Setup and Gear](https://kit.co/iRayn)
+#### ///[My Setup and Gear](https://kit.co/iRayn)
 
-#### [All my Links](https://biolinks.heropost.io/iRayn)
+#### ///[All my Links](https://biolinks.heropost.io/iRayn)
 
 <a name="programs"></a>
 ## Programs
@@ -30,13 +30,16 @@
 - [Marmoset Toolbag](https://marmoset.co/toolbag/) 
 <br>    [baking | presentation]
 
+- [KeyShot](https://www.keyshot.com/)
+<br>    [rendering]
+
 - [MoI3D](http://moi3d.com/)
 <br>    [CAD]
 
 - [Houdini](https://www.sidefx.com/)/[EmberGen](https://jangafx.com/)
 <br>    [VFX]
 
-<a name="Engines"></a>
+<a name="engines"></a>
 ## Engines
 
 - [Unreal](https://www.unrealengine.com/en-US/)
@@ -45,7 +48,7 @@
 
 - [CryEngine](https://www.cryengine.com/)
 
-<a name="Resources"></a>
+<a name="resources"></a>
 ## Resources
 
 - [My Anatomy Collection](https://www.artstation.com/zexy_wizard/collections/273131)
@@ -53,8 +56,6 @@
 
 - [JROTools](https://jrotools.com/projects)
 <br>    [Free&Paid]
-
-
 
 <a name="plugins"></a>
 ## Plugins
@@ -65,9 +66,6 @@
 - [somuchmonsters](http://www.somuchmonsters.com/)
 <br>    [SoMuchZbrush | SoMuchMaterials]
 
-
-
-
 <a name="learning"></a>
 ## Learning
 
@@ -77,9 +75,22 @@
 
 - [Stylized Station](https://www.youtube.com/c/StylizedStation/featured)
 
-- [FlippedNormals](https://flippednormals.com/)
-
 - [Brackeys](https://www.youtube.com/c/Brackeys/featured)
 
 - [simonschreibt](https://simonschreibt.de/)
 <br>    [GameTech Blog]
+
+<a name="artists"></a>
+## Artists
+
+- [Zdzisław Beksiński](https://www.shopbeksinski.com/)
+
+- [Ching Yeh](https://www.artstation.com/chingyeh)
+
+- [Ash Thorp](https://www.artstation.com/ashthorp)
+
+- [Oleg Vdovenko](https://www.artstation.com/chuvabak)
+
+- [Piotr Jabłoński](https://www.artstation.com/nicponim)
+
+- [Aleksander Rostov](https://www.artstation.com/rostovjanka)
