@@ -1,11 +1,14 @@
-![Alt Text](https://media.giphy.com/media/RLbdgn0S36my2VfInK/giphy.gif)
+![Alt Text](https://64.media.tumblr.com/23403960542c9bc405cd5d8afe70dbab/tumblr_of7u47PuSp1qhccbco1_640.gifv)
 
-[Programs](#programs) | [Engines](#engines) |[Resources](#resources) | [Learning](#learning) | [Artists](#artists)
+##    [Programs](#programs) | [Engines](#engines) |[Resources](#resources) | [Learning](#learning) | [Artists](#artists)
 
-#### ///[My Setup and Gear](https://kit.co/iRayn)
+***
 
-#### ///[All my Links](https://biolinks.heropost.io/iRayn)
+### ///[My Setup and Gear](https://kit.co/iRayn)
 
+### ///[All my Links](https://biolinks.heropost.io/iRayn)
+
+***
 <a name="programs"></a>
 ## Programs
 
@@ -39,6 +42,7 @@
 - [Houdini](https://www.sidefx.com/)/[EmberGen](https://jangafx.com/)
 <br>    [VFX]
 
+***
 <a name="engines"></a>
 ## Engines
 
@@ -48,17 +52,21 @@
 
 - [CryEngine](https://www.cryengine.com/)
 
+***
 <a name="resources"></a>
 ## Resources
 
 - [My Anatomy Collection](https://www.artstation.com/zexy_wizard/collections/273131)
+<br>    [personal Artstation album]
     > not all of these are supa accurate
 
 - [Kenney](https://www.kenney.nl/)
+<br>    [2D/3D Assets]
 
 - [JROTools](https://jrotools.com/projects)
 <br>    [Free&Paid]
 
+***
 <a name="plugins"></a>
 ## Plugins
 
@@ -68,6 +76,7 @@
 - [somuchmonsters](http://www.somuchmonsters.com/)
 <br>    [SoMuchZbrush | SoMuchMaterials]
 
+***
 <a name="learning"></a>
 ## Learning
 
@@ -81,6 +90,8 @@
 
 - [simonschreibt](https://simonschreibt.de/)
 <br>    [GameTech Blog]
+
+***
 
 <a name="artists"></a>
 ## Artists
