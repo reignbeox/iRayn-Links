@@ -1,5 +1,7 @@
 ![Alt Text](https://64.media.tumblr.com/23403960542c9bc405cd5d8afe70dbab/tumblr_of7u47PuSp1qhccbco1_640.gifv)
+######  art@[Paul Robertson](https://www.instagram.com/probzzzz/)
 
+***
 ##    [Programs](#programs) | [Engines](#engines) |[Resources](#resources) | [Learning](#learning) | [Artists](#artists)
 
 ***
@@ -60,8 +62,14 @@
 <br>    [personal Artstation album]
     > not all of these are supa accurate
 
+- [Orb Brushes](https://gumroad.com/orb#nOkHw)
+<br>    [going-to stylized brushes]
+
 - [Kenney](https://www.kenney.nl/)
 <br>    [2D/3D Assets]
+
+- [Bad King](https://www.badking.com.au/site/)
+<br>    [Zbrush Stuff]
 
 - [JROTools](https://jrotools.com/projects)
 <br>    [Free&Paid]
