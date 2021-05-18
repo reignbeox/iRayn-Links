@@ -65,6 +65,9 @@
 - [Orb Brushes](https://gumroad.com/orb#nOkHw)
 <br>    [going-to stylized brushes]
 
+- [Perry Leijten](https://gumroad.com/peerke?sort=newest)
+<br>    [Rigs and Maya Tools]
+
 - [Kenney](https://www.kenney.nl/)
 <br>    [2D/3D Assets]
 
