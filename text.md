@@ -23,6 +23,9 @@
 - [Maya](https://www.autodesk.com/products/maya/overview?term=1-YEAR)/[Blender](https://www.blender.org/)
 <br>    [comp | animation | rigging | minor fixes | bake setup]
 
+- [FiberShop](https://cgpal.com/fibershop/)
+<br>    [hair cards generation]
+
 - [Topogun3](http://www.topogun.com/) 
 <br>    [retopo]
 
