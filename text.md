@@ -47,6 +47,14 @@
 - [Houdini](https://www.sidefx.com/)/[EmberGen](https://jangafx.com/)
 <br>    [VFX]
 
+### Other useful software
+
+- [TreeSize](https://www.jam-software.com/treesize_free)
+<br>    [DiskSpace Explorer]
+
+- [GifCam](http://blog.bahraniapps.com/gifcam/)
+<br>    [Gif maker for e.g. game clips]
+
 ***
 <a name="engines"></a>
 ## Engines
@@ -121,3 +129,6 @@
 - [Piotr Jabłoński](https://www.artstation.com/nicponim)
 
 - [Aleksander Rostov](https://www.artstation.com/rostovjanka)
+
+***
+
