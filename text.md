@@ -73,6 +73,9 @@
 <br>    [personal Artstation album]
     > not all of these are supa accurate
 
+- [Animal Reference Library](https://x6ud.github.io/#/)
+<br>    [3D scanned skulls of various animals]
+
 - [Orb Brushes](https://gumroad.com/orb#nOkHw)
 <br>    [going-to stylized brushes]
 
