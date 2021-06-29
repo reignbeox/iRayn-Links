@@ -73,6 +73,9 @@
 <br>    [personal Artstation album]
     > not all of these are supa accurate
 
+- [Artbreeder](https://www.artbreeder.com/)
+<br>    [Machine Learning Concept tool]
+
 - [Animal Reference Library](https://x6ud.github.io/#/)
 <br>    [3D scanned skulls of various animals]
 
