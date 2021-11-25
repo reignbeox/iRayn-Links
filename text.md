@@ -55,6 +55,10 @@
 - [GifCam](http://blog.bahraniapps.com/gifcam/)
 <br>    [Gif maker for e.g. game clips]
 
+- [simpleIcons](https://simpleicons.org/)
+<br>    [All kinds of brand logos]
+
+
 ***
 <a name="engines"></a>
 ## Engines
