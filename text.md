@@ -8,7 +8,7 @@
 
 ### ///[My Setup and Gear](https://kit.co/iRayn)
 
-### ///[All my Links](https://biolinks.heropost.io/iRayn)
+### ///[All my Links](https://link.heropost.io/iRayn)
 
 ***
 <a name="programs"></a>
