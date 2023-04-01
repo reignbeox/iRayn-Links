@@ -76,10 +76,7 @@
 - [My Anatomy Collection](https://www.artstation.com/zexy_wizard/collections/273131)
 <br>    [personal Artstation album]
     > not all of these are supa accurate
-
-- [Wombo](https://app.wombo.art/)
-<br>    [AI Powered Art Generator]
-
+    
 - [Artbreeder](https://www.artbreeder.com/)
 <br>    [Machine Learning Concept tool]
 
