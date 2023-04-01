@@ -76,9 +76,6 @@
 - [My Anatomy Collection](https://www.artstation.com/zexy_wizard/collections/273131)
 <br>    [personal Artstation album]
     > not all of these are supa accurate
-    
-- [Artbreeder](https://www.artbreeder.com/)
-<br>    [Machine Learning Concept tool]
 
 - [Animal Reference Library](https://x6ud.github.io/#/)
 <br>    [3D scanned skulls of various animals]
@@ -91,9 +88,6 @@
 
 - [Kenney](https://www.kenney.nl/)
 <br>    [2D/3D Assets, Voxel Tool, Asset Sandbox]
-
-- [Bad King](https://www.badking.com.au/site/)
-<br>    [Zbrush Stuff]
 
 - [JROTools](https://jrotools.com/projects)
 <br>    [Free&Paid]
@@ -128,17 +122,17 @@
 <a name="artists"></a>
 ## Artists
 
-- [Zdzisław Beksiński](https://www.shopbeksinski.com/)
+- [Oleg Vdovenko](https://www.artstation.com/chuvabak)
+
+- [Aleksander Rostov](https://www.artstation.com/rostovjanka)
 
 - [Ching Yeh](https://www.artstation.com/chingyeh)
 
-- [Ash Thorp](https://www.artstation.com/ashthorp)
-
-- [Oleg Vdovenko](https://www.artstation.com/chuvabak)
-
 - [Piotr Jabłoński](https://www.artstation.com/nicponim)
 
-- [Aleksander Rostov](https://www.artstation.com/rostovjanka)
+- [Ash Thorp](https://www.artstation.com/ashthorp)
+
+- [Zdzisław Beksiński](https://www.shopbeksinski.com/)
 
 ***
 
